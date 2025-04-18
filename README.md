@@ -12,7 +12,8 @@ In this project, I used AWS CloudFormation to automate and manage cloud infrastr
 
 ## 🧱 File Used
 
-📄 Template: `templates/my-cloudformation-template.yaml`
+📄 Template Used: [my-cloudformation-template.yaml](templates/my-cloudformation-template.yaml)
+
 
 ---
 
